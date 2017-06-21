@@ -1,0 +1,9 @@
+D:\开发工程\广州展云信息科技有限公司\开发框架\dotNet\动软代码生成器模板组件\BuilderVS2010精简版_组件\Lib\Template\CodematicDemoS3p\DBUtility\bin\Debug\Maticsoft.DBUtility.dll
+D:\开发工程\广州展云信息科技有限公司\开发框架\dotNet\动软代码生成器模板组件\BuilderVS2010精简版_组件\Lib\Template\CodematicDemoS3p\DBUtility\bin\Debug\Maticsoft.DBUtility.pdb
+D:\开发工程\广州展云信息科技有限公司\开发框架\dotNet\动软代码生成器模板组件\BuilderVS2010精简版_组件\Lib\Template\CodematicDemoS3p\DBUtility\bin\Debug\IBatisNet.Common.dll
+D:\开发工程\广州展云信息科技有限公司\开发框架\dotNet\动软代码生成器模板组件\BuilderVS2010精简版_组件\Lib\Template\CodematicDemoS3p\DBUtility\bin\Debug\IBatisNet.DataMapper.dll
+D:\开发工程\广州展云信息科技有限公司\开发框架\dotNet\动软代码生成器模板组件\BuilderVS2010精简版_组件\Lib\Template\CodematicDemoS3p\DBUtility\bin\Debug\MySql.Data.dll
+D:\开发工程\广州展云信息科技有限公司\开发框架\dotNet\动软代码生成器模板组件\BuilderVS2010精简版_组件\Lib\Template\CodematicDemoS3p\DBUtility\bin\Debug\System.Data.SQLite.DLL
+D:\开发工程\广州展云信息科技有限公司\开发框架\dotNet\动软代码生成器模板组件\BuilderVS2010精简版_组件\Lib\Template\CodematicDemoS3p\DBUtility\obj\Debug\DBUtility.csprojResolveAssemblyReference.cache
+D:\开发工程\广州展云信息科技有限公司\开发框架\dotNet\动软代码生成器模板组件\BuilderVS2010精简版_组件\Lib\Template\CodematicDemoS3p\DBUtility\obj\Debug\Maticsoft.DBUtility.dll
+D:\开发工程\广州展云信息科技有限公司\开发框架\dotNet\动软代码生成器模板组件\BuilderVS2010精简版_组件\Lib\Template\CodematicDemoS3p\DBUtility\obj\Debug\Maticsoft.DBUtility.pdb

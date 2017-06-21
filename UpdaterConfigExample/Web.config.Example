@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!--
+  有关如何配置 ASP.NET 应用程序的详细消息，请访问
+  http://go.microsoft.com/fwlink/?LinkId=169433
+  -->
+
+<configuration>
+    <system.web>
+        <compilation debug="true" targetFramework="4.0" />
+    </system.web>
+    <system.webServer>
+        <handlers>
+            <remove name="PageHandlerFactory-ISAPI-4.0_64bit" />
+            <remove name="PageHandlerFactory-ISAPI-4.0_32bit" />
+            <remove name="PageHandlerFactory-ISAPI-2.0-64" />
+            <remove name="PageHandlerFactory-ISAPI-2.0" />
+            <remove name="PageHandlerFactory-Integrated-4.0" />
+            <remove name="PageHandlerFactory-Integrated" />
+        </handlers>
+        <staticContent>
+            <mimeMap fileExtension=".aspx" mimeType="applicatin/octet-stream" />
+			<mimeMap fileExtension=".cs" mimeType="applicatin/octet-stream" />
+        </staticContent>
+        <security>
+            <requestFiltering>
+                <fileExtensions>
+                    <remove fileExtension=".cs" />
+                </fileExtensions>
+            </requestFiltering>
+        </security>
+    </system.webServer>
+
+</configuration>

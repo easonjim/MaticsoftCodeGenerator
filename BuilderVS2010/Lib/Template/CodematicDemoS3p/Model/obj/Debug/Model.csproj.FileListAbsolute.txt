@@ -1,0 +1,4 @@
+D:\开发工程\广州展云信息科技有限公司\开发框架\dotNet\动软代码生成器模板组件\BuilderVS2010精简版_组件\Lib\Template\CodematicDemoS3p\Model\bin\Debug\Maticsoft.Model.dll
+D:\开发工程\广州展云信息科技有限公司\开发框架\dotNet\动软代码生成器模板组件\BuilderVS2010精简版_组件\Lib\Template\CodematicDemoS3p\Model\bin\Debug\Maticsoft.Model.pdb
+D:\开发工程\广州展云信息科技有限公司\开发框架\dotNet\动软代码生成器模板组件\BuilderVS2010精简版_组件\Lib\Template\CodematicDemoS3p\Model\obj\Debug\Maticsoft.Model.dll
+D:\开发工程\广州展云信息科技有限公司\开发框架\dotNet\动软代码生成器模板组件\BuilderVS2010精简版_组件\Lib\Template\CodematicDemoS3p\Model\obj\Debug\Maticsoft.Model.pdb
